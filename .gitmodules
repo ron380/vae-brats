@@ -1,0 +1,6 @@
+[submodule "brast-validation"]
+	path = brast-validation
+	url = https://gitlab.cern.ch/sft-aii/ml/brast-validation.git
+[submodule "brast-models"]
+	path = brast-models
+	url = https://gitlab.cern.ch/sft-aii/ml/brast-models.git
